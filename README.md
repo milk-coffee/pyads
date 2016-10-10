@@ -1,4 +1,5 @@
 This is a fork from https://github.com/MrLeeh/pyads
+
 More information can be found there.
 
 Tested using TwinCAT3 and Python3 on Windows.
@@ -13,7 +14,7 @@ Make sure that you have the `TcAdsDll.dll` provided by Beckhoff installed on you
 
 ## Usage
 
-Run TwinCAT3 with a boolean variable 'test' is TRUE.
+Run TwinCAT3 with a boolean variable 'test' in MAIN.POU set as TRUE.
 
 ```python
 >>> import pyads
